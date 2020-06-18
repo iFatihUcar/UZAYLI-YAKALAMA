@@ -1,0 +1,1 @@
+Nesne tabanlı programla dersi için Pygame kütüphanesi kullanarak Python ile yazdığım oyun.
